@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57143af4-6c9c-49d1-b40f-5314d286f9d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth_day/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth_day/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth_day/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth_day/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty-first_day/twenty_first_day.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_of_code/twentieth_day/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days_of_code/twentieth_day/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_of_code/twentieth_day/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days_of_code/twentieth_day/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +28,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27zh18XrJKegBGbevRe7DKrmXif" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "//wsl$/Ubuntu-18.04/home/junior/Code Projects/Python/100_Day_of_code",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager" selected="Python.main">
@@ -129,5 +137,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
