@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57143af4-6c9c-49d1-b40f-5314d286f9d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_second_day/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_second_day/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_second_day/paddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_second_day/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +39,19 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu-18.04/home/junior/Code Projects/Python/100_Day_of_code",
+    "last_opened_file_path": "//wsl$/Ubuntu-18.04/home/junior/Code Projects/Python/100_Day_of_code/Days_of_code/twenty_third_day",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-18.04\home\junior\Code Projects\Python\100_Day_of_code\Days_of_code\twenty_third_day" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu-18.04\home\junior\Code Projects\Python\100_Day_of_code\Days_of_code\twenty_second_day" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Day_of_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,6 +65,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Days_of_code/twenty_second_day/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Day_of_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Days_of_code/twenty_third_day" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Days_of_code/twenty_third_day/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,6 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.snake" />
