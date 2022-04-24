@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57143af4-6c9c-49d1-b40f-5314d286f9d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100_Day_of_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_Day_of_code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_of_code/twenty_third_day/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="27zh18XrJKegBGbevRe7DKrmXif" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,8 +45,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu-18.04/home/junior/Code Projects/Python/100_Day_of_code/Days_of_code/twenty_third_day",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "last_opened_file_path": "/home/junior/Documentos/www/python/100_Day_of_code",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -51,7 +58,7 @@
       <recent name="\\wsl$\Ubuntu-18.04\home\junior\Code Projects\Python\100_Day_of_code\Days_of_code\twenty_second_day" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Day_of_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Day_of_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,6 +93,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Days_of_code/twenty_third_day/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Day_of_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +187,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.snake" />
