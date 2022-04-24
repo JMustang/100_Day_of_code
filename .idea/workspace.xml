@@ -2,14 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57143af4-6c9c-49d1-b40f-5314d286f9d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100_Day_of_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_Day_of_code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail+Merge+Project+Start/Mail Merge Project Start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/Mail_Merge_Project_Start/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/Mail_Merge_Project_Start/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/Mail_Merge_Project_Start/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/Mail_Merge_Project_Start/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/Mail_Merge_Project_Start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/._Mail Merge Project Start" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/._Input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/._Output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/._main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/Input/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/Input/._Letters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/Input/._Names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/Input/Letters/._starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/Input/Names/._invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/Output/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/Output/._ReadyToSend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail_Merge_Project_Start/__MACOSX/Mail Merge Project Start/Output/ReadyToSend/._example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/reading-files/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/reading-files/my_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/reading-files/my_new_file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_of_code/twenty_third_day/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days_of_code/twenty_third_day/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/Snake+Project+Code+from+Day+21/scoreboard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +57,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/junior/Documentos/www/python/100_Day_of_code",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/junior/Documentos/www/python/100_Day_of_code&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu-18.04\home\junior\Code Projects\Python\100_Day_of_code\Days_of_code\twenty_third_day" />
@@ -58,7 +75,28 @@
       <recent name="\\wsl$\Ubuntu-18.04\home\junior\Code Projects\Python\100_Day_of_code\Days_of_code\twenty_second_day" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
+  <component name="RunManager" selected="Python.main (4)">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Day_of_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/reading-files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/reading-files/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Day_of_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +160,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Day_of_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail+Merge+Project+Start/Mail Merge Project Start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Days_of_code/twentieth-fourth_day/lettars/Mail+Merge+Project+Start/Mail Merge Project Start/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Day_of_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,55 +202,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Day_of_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Days_of_code/twentieth_day" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="\\wsl$\Ubuntu-18.04\home\junior\Code Projects\Python\100_Day_of_code\Days_of_code\twentieth_day\snake.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="turtle_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Day_of_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Days_of_code/nineteenth_day" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Days_of_code/nineteenth_day/turtle_race.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.snake" />
-        <item itemvalue="Python.turtle_race" />
       </list>
     </recent_temporary>
   </component>
