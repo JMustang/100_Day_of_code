@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57143af4-6c9c-49d1-b40f-5314d286f9d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Days_of_code/twenty-seventh_day/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_of_code/thirtieth_day/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days_of_code/thirtieth_day/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
